@@ -12,7 +12,6 @@ A fully responsive and visually appealing **Coffee Shop Website** built using **
 - 📞 Contact Form with Social Media Links
 - 🎨 Stylish fonts and animations
 
-
 ## 📸 Preview
 
 > The Live Preview [preview](https://coffeeweb-0405.netlify.app/) deployment link here if available.
