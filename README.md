@@ -15,7 +15,7 @@ A fully responsive and visually appealing **Coffee Shop Website** built using **
 
 ## 📸 Preview
 
-> Add a live screenshot or [priview](https://coffeeweb-0405.netlify.app/) deployment link here if available.
+> The Live Preview [preview](https://coffeeweb-0405.netlify.app/) deployment link here if available.
 
 ## 🛠️ Technologies Used
 
