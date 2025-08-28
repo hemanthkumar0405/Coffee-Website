@@ -28,7 +28,6 @@ A fully responsive and visually appealing **Coffee Shop Website** built using **
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/hemanthkumar0405/coffee-website.git
 
 
